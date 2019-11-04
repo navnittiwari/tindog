@@ -157,4 +157,30 @@ p {
     position: static;
     transform: rotate(0);
   }
+
+  .big-heading {
+    font-size: 4rem;
+    line-height: 2;
+  }
+  .section-heading {
+    font-size: 4rem;
+    line-height: 2;
+  }
+  .navbar-brand {
+    font-size: 3rem;
+  }
+  .nav-link {
+    font-size: 1.7rem;
+  }
+  .feature-title {
+    font-size: 2rem;
+  }
+  .testimonial-text {
+    font-size: 4rem;
+    line-height: 2;
+  }
+  .price-text {
+    font-size: 4rem;
+    line-height: 2;
+  }
 }
