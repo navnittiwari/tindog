@@ -152,4 +152,42 @@ p {
   #title {
     text-align: center;
   }
+<<<<<<< HEAD
 }
+=======
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+
+  .big-heading {
+    font-size: 4rem;
+    line-height: 2;
+  }
+  .section-heading {
+    font-size: 4rem;
+    line-height: 2;
+  }
+  .navbar-brand {
+    font-size: 3rem;
+  }
+  .nav-link {
+    font-size: 1.7rem;
+  }
+  .feature-title {
+    font-size: 2rem;
+  }
+  .testimonial-text {
+    font-size: 4rem;
+    line-height: 2;
+  }
+  .price-text {
+    font-size: 4rem;
+    line-height: 2;
+  }
+  p{
+    font-size: 2.5rem;
+  }
+}
+>>>>>>> 5e998fcd1d72d199e3bf71e56898e2f840c408e9
