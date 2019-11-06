@@ -152,10 +152,7 @@ p {
   #title {
     text-align: center;
   }
-<<<<<<< HEAD
-}
-=======
-
+  
   .title-image {
     position: static;
     transform: rotate(0);
@@ -190,4 +187,3 @@ p {
     font-size: 2.5rem;
   }
 }
->>>>>>> 5e998fcd1d72d199e3bf71e56898e2f840c408e9
